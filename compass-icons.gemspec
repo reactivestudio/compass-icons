@@ -2,11 +2,11 @@
 
 Gem::Specification.new do |s|
   # Release Specific Information
-  s.version = "0.1.0"
+  s.version = "0.1.5"
   s.date = "2015-02-23"
 
   # Gem Details
-  s.name = "Compass Icons"
+  s.name = "compass-icons"
   s.rubyforge_project = "compass-icons"
   s.description = %q{Compass plugin for icons}
   s.summary = %q{Flexible compass plugin for working with icons (SVG, PNG)}
@@ -27,7 +27,7 @@ Gem::Specification.new do |s|
   s.files += Dir.glob("lib/**/*.*")
 
   # Sass Files
-  s.files += Dir.glob("scss/**/*.*")
+  s.files += Dir.glob("stylesheets/**/*.*")
 
   # Template Files
   # s.files += Dir.glob("templates/**/*.*")
