@@ -1,0 +1,5 @@
+{
+  "name": "compass-icons",
+  "description": "Flexible compass plugin for working with icons (SVG, PNG)",
+  "tags": ["icons", "svg", "png", "sprites", "hidpi"]
+}
